@@ -30,11 +30,10 @@ To use this project, you will need to provide your own data (`x`, `y`) to fit th
 - sklearn
 - numpy
 
-## Future Work
+## Report
+#### -[Canva File](https://www.canva.com/design/DAF_gFQy9cU/QWdyZUKmBciXM0MElTQTUg/view?utm_content=DAF_gFQy9cU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
-Future work may include expanding the grid to search a wider range of hyperparameters or using a different model for optimization.
-
-### Contributers
+### Contributors
 
 #### -[@mohiabd99](https://github.com/Mohiabd99)
 #### -[@anitatehrani](https://github.com/anitatehrani)
